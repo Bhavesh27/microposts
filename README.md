@@ -1,4 +1,4 @@
-# Babel Webpack Starter
+# Microposts
 
 A Project showcasing basic CRUD operations in JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
 
@@ -34,7 +34,6 @@ $ npm run build
 
 ### Author
 
-Bhavesh kumar
 [Bhavesh Kumar](http://www.github.com/bhavesh27)
 
 ### License
